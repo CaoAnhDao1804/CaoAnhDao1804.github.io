@@ -3,6 +3,6 @@
 =======
 1. Cao Thi Anh Dao
 2. Another person
-..* From DUT
-..* From DTU
+⋅⋅* Unordered sub-list. 
+⋅⋅* Unordered sub-list. 
 [Go to gg to know everything](https://www.google.com)
